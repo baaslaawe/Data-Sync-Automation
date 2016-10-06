@@ -1,0 +1,21 @@
+﻿Installing assembly 'C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.InstallLog
+   assemblypath = C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe
+Installing service Log Service...
+Service Log Service has been successfully installed.
+Creating EventLog source Log Service in log Application...
+Committing assembly 'C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.InstallLog
+   assemblypath = C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe
+Uninstalling assembly 'C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.InstallLog
+   assemblypath = C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe
+Removing EventLog source Log Service.
+Service Log Service is being removed from the system...
+Service Log Service was successfully removed from the system.

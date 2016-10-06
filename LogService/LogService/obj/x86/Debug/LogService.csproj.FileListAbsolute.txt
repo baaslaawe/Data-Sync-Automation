@@ -1,0 +1,20 @@
+C:\Users\sha38475\documents\visual studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe
+C:\Users\sha38475\documents\visual studio 2010\Projects\LogService\LogService\bin\Debug\LogService.pdb
+C:\Users\sha38475\documents\visual studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.ProjectInstaller.resources
+C:\Users\sha38475\documents\visual studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.csproj.GenerateResource.Cache
+C:\Users\sha38475\documents\visual studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.exe
+C:\Users\sha38475\documents\visual studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.pdb
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe.manifest
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.application
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.TrustInfo.xml
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.exe.manifest
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\obj\x86\Debug\LogService.application
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Debug\LogService.exe.config
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Build\LogService.exe.config
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Build\LogService.exe.manifest
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Build\LogService.application
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Build\LogService.exe
+C:\Users\sha38475\Documents\Visual Studio 2010\Projects\LogService\LogService\bin\Build\LogService.pdb
+E:\codes\Intern Documents\Intern Documents\Prateek Work\Projects\LogService\LogService\bin\Debug\LogService.exe.config
+E:\codes\Intern Documents\Intern Documents\Prateek Work\Projects\LogService\LogService\obj\x86\Debug\LogService.exe
+E:\codes\Intern Documents\Intern Documents\Prateek Work\Projects\LogService\LogService\obj\x86\Debug\LogService.pdb
